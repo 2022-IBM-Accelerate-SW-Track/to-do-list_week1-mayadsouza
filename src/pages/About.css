@@ -10,11 +10,12 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color:darkslategray;
 }
 
 .right {
   right: 0;
+  background-color: lightseagreen;
 }
 
 .centered {
